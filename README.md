@@ -10,4 +10,4 @@ This is some brief and not-impressive fiddling with the data set forked from the
 
 *Per model year mileage of trade in vs. distribution for the whole dataset*
 
-![mileage-distribution-vs-average](https://raw.githubusercontent.com/jwhendy/car-reliability/master/plots/mileage-distribution-vs-average.png)
+![mileage-distribution-vs-ave](https://raw.githubusercontent.com/jwhendy/car-reliability/master/plots/mileage-distribution-vs-ave.png)
