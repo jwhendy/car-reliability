@@ -2,12 +2,12 @@ This is some brief and not-impressive fiddling with the data set forked from the
 
 *Model year vs. issue rate*
 
-![year-vs-issue-rate](https://github.com/tcrug/car-reliability/blob/master/plots/year-vs-issue-rate.png)
+![year-vs-issue-rate](https://raw.githubusercontent.com/jwhendy/car-reliability/master/plots/year-vs-issue-rate.png)
 
 *Vehicle mileage vs. issue rate*
 
-![mileage-vs-issue-rate](https://github.com/tcrug/car-reliability/blob/master/plots/mileage-vs-issue-rate.png)
+![mileage-vs-issue-rate](https://raw.githubusercontent.com/jwhendy/car-reliability/master/plots/mileage-vs-issue-rate.png)
 
 *Per model year mileage of trade in vs. distribution for the whole dataset*
 
-![mileage-distribution-vs-average](https://github.com/tcrug/car-reliability/blob/master/plots/mileage-distribution-vs-average.png)
+![mileage-distribution-vs-average](https://raw.githubusercontent.com/jwhendy/car-reliability/master/plots/mileage-distribution-vs-average.png)
